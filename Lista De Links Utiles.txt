@@ -1,0 +1,23 @@
+Sitios Utiles:
+
+=-=Paginas Para Aprender y Practicar=-=
+W3Shools - https://www.w3schools.com/ 
+
+Exercism - https://exercism.org/
+
+=-=Ia Generacion Imagenes=-=
+Ideogram - https://ideogram.ai/
+
+=-=Creador de Guias de Estilo=-=
+Sylify - http://stylifyme.com/
+
+=-=Ias de Ayuda generica=-=
+ChatGPT - https://chat.openai.com/
+
+JasperAI - https://www.jasper.ai/
+
+YOU (Buscador)
+
+BlackBox (Extension VSCode)
+
+
